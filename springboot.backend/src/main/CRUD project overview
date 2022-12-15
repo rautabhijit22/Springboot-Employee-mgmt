@@ -1,0 +1,21 @@
+Spring Boot CRUD MySQL Database Project Overview:
+
+Objective: Create REST APIs for Employee mgmt System REST clients should be able to :
+    1.Get a list of Employees
+    2.Get a sigle employee by Id
+    3.Create a new Employee
+    4.Update an existing employee
+    5. Delete an employee
+
+    TECH STACK USED:
+
+    * Spring Boot
+    * Spring Data JPA
+    * Lombok library
+    * JDK
+    * Embedded Tomcat
+    * MySQL Database
+    * Intellij
+
+
+
